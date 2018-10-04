@@ -1,0 +1,3 @@
+#ignore folder named 'cmake-build-debug/ 'and '.idea/'
+cmake-build-debug/
+.idea/
